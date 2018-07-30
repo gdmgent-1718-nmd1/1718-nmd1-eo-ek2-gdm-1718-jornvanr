@@ -18,143 +18,142 @@ img {
 /* Voeg jouw css hieraan toe */
 
 .left{
-    float: left;
-  }
-  
-  .center{
-    text-align: center;
-  }
-  
-  .title{
-    margin-left:20px;
-  }
-  
-  nav{
-    background:black;
-    width:100%;
-    height:70px;
-    padding:0;
-    margin:0;
-    color:white;
-  }
-  ul{
-    float:right;
-    margin-top:20px;
-  }
-  
-  li{
-    list-style: none;
-    float: left;
-    margin-right:20px;
-  }
-  
-  a{
-    text-decoration: none;
-    color:white;
-  }
-  
-  a:hover{
-    color: #d58d46;
-  }
-  
-  section{
-    background: #bbbbbb;
-  }
-  
-  .head2{
-    font-family: 'Oxygen', sans-serif;
-    font-weight: bold;
-    color: #000;
-    margin-top:0;
-    font-size: 40px;
-  }
-  
-  .center article{
-    height:800px;
-    box-sizing: border-box;
-  }
-  
-  #logo{
-    padding-top: 250px;
-  }
-  
-  #typo{
-    width:90%;
-    margin: auto;
-    padding-top:170px;
-  }
-  
-  #typo h3{
-    font-size:34px;
-    margin-top:60px;
-  }
-  
-  #typo h4{
-    font-size:24px;
-  }
-  
-  .font{
-    padding-bottom: 20px;
-  }
-  
-  #colors{
-    padding-top:250px;
-  }
-  
-  .color{
-    float:left;
-    border:1px white solid;
-    width:10%;
-    margin-right:1%;
-  }
-  
-  .color:after{
-    content: "";
-    display: block;
-    padding-bottom: 90%;
-  }
-  
-  .color1{
-    background:#d58d46;
-    margin-left: 17%;
-  }
-  
-  .color2{
-    background:#333;
-    color:white;
-  }
-  
-  .color3{
-    background:#666;
-    color:white;
-  }
-  
-  .color4{
-    background:#777;
-    color:white;
-  }
-  
-  .color5{
-    background:#bbb;
-  }
-  
-  .color6{
-    background:#EED0B9;
-  }
-  
-  #btn{
-    padding-top: 300px;
-  }
-  
-  #btn img{
-    width:14%;
-  }
-  
-  #icon{
-    padding-top: 300px;
-  }
-  
-  #icon img{
-    height:10vw;
-  }
-  
+  float: left;
+}
+
+.center{
+  text-align: center;
+}
+
+.title{
+  margin-left:20px;
+}
+
+nav{
+  background:black;
+  width:100%;
+  height:70px;
+  padding:0;
+  margin:0;
+  color:white;
+}
+ul{
+  float:right;
+  margin-top:20px;
+}
+
+li{
+  list-style: none;
+  float: left;
+  margin-right:20px;
+}
+
+li a{
+  text-decoration: none;
+  color:white;
+}
+
+li a:hover{
+  color: #d58d46;
+}
+
+section{
+  background: #bbbbbb;
+}
+
+.head2{
+  font-family: 'Oxygen', sans-serif;
+  font-weight: bold;
+  color: #000;
+  margin-top:0;
+  font-size: 40px;
+}
+
+.center article{
+  height:800px;
+  box-sizing: border-box;
+}
+
+#logo{
+  padding-top: 250px;
+}
+
+#typo{
+  width:90%;
+  margin: auto;
+  padding-top:170px;
+}
+
+#typo h3{
+  font-size:34px;
+  margin-top:60px;
+}
+
+#typo h4{
+  font-size:24px;
+}
+
+.font{
+  padding-bottom: 20px;
+}
+
+#colors{
+  padding-top:250px;
+}
+
+.color{
+  float:left;
+  border:1px white solid;
+  width:10%;
+  margin-right:1%;
+}
+
+.color:after{
+  content: "";
+  display: block;
+  padding-bottom: 90%;
+}
+
+.color1{
+  background:#d58d46;
+  margin-left: 17%;
+}
+
+.color2{
+  background:#333;
+  color:white;
+}
+
+.color3{
+  background:#666;
+  color:white;
+}
+
+.color4{
+  background:#777;
+  color:white;
+}
+
+.color5{
+  background:#bbb;
+}
+
+.color6{
+  background:#EED0B9;
+}
+
+#btn{
+  padding-top: 300px;
+}
+
+#btn img{
+  width:14%;
+}
+
+#icon{
+  padding-top: 300px;
+}
+
+#icon img{
+  height:10vw;
+}
